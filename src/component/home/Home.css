@@ -1,0 +1,14 @@
+Body{
+    background-image: url(background.jpg);
+}
+
+.content-div{
+    background-color: white;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+
